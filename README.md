@@ -5,5 +5,5 @@ http://joshmccall221.github.io
 
 TODO:
 ====
-- get jekyll site out of repo jekyllstuff
+- get jekyll portfoliow site out of repo joshmccall221/jekyllstuff
 - do cool stuff
